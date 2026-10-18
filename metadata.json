@@ -1,0 +1,6 @@
+{
+  "name": "CENTRO DO ABISMO - O Universo dos Buracos Negros",
+  "description": "Explorador astrofísico imersivo com arquivo de imagens reais e exclusivas da NASA, EHT, ESO e Chandra, sem fotos repetidas, simulações do horizonte de eventos e IA astrofísica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
